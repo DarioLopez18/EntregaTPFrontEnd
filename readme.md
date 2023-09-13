@@ -16,7 +16,7 @@
 
 # BOOTSTRAP
 
-![image](https://github.com/DarioLopez18/EntregaTPFrontEnd/blob/main/HTML%2BCSS2.png)
+![image](https://github.com/DarioLopez18/EntregaTPFrontEnd/blob/main/BOOTSTRAP.png)
  
 # Datos del alumno👨‍🎓:
 
