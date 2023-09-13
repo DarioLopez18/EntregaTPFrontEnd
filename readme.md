@@ -12,7 +12,11 @@
 # HTML + CSS
 
 ![image](https://github.com/DarioLopez18/EntregaTPFrontEnd/blob/main/HTML%2BCSS1.png)
+![image](https://github.com/DarioLopez18/EntregaTPFrontEnd/blob/main/HTML%2BCSS2.png)
 
+# BOOTSTRAP
+
+![image](https://github.com/DarioLopez18/EntregaTPFrontEnd/blob/main/HTML%2BCSS2.png)
  
 # Datos del alumno👨‍🎓:
 
